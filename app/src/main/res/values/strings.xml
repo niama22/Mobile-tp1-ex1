@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloToast2</string>
+        <string name="text">0</string>
+
+</resources>
